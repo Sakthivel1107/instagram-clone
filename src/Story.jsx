@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useParams,Link, useNavigate } from "react-router-dom"
+import { useParams,Link, useNavigate } from "react-router-dom";
 function Story(){
     const {id,tot} = useParams();
     const [story,setStory] = useState(null);
@@ -27,4 +27,4 @@ function Story(){
     </div>
 )
 }
-export default Story
+export default Story;
