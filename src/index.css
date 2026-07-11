@@ -1,0 +1,67 @@
+.w-20{
+    width: 20%;
+}
+w-30{
+    width: 30%;
+}
+.letter{
+    font-size: 1.5vw;
+}
+.storys{
+    height: 80px;
+    border-bottom: 1px solid lightgrey;
+}
+.dp{
+    height: 45px;
+    width: 45px;
+}
+.uname{
+    font-size: 17px;
+}
+.image{
+    width: 350px;
+    height: 300px;
+}
+.puname{
+    font-size: 17px;
+}
+.switch{
+    font-size: 13px;
+    margin-top: 2.5px;
+    margin-left: 30px;
+}
+.sfy{
+    font-size: 12px;
+}
+.sall{
+    font-size: 12px;
+}
+.gradientlayer{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg,#ff00ff,#ff6600,#ffcc00);
+}
+.storydp{
+    width: 50px;
+    height: 50px;
+}
+
+.storyimg {
+    width: 40%;
+}
+
+.profilepic{
+    width: 50px;
+    height: 50px;
+}
+.Intext{
+    font-style: inherit;
+}
+
+.feed{
+    overflow-y: auto;
+}
