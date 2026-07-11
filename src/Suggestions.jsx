@@ -44,4 +44,4 @@ function Suggestions(){
         </div>
     )
 }
-export default Suggestions
+export default Suggestions;
