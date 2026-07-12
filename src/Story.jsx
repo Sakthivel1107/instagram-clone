@@ -5,7 +5,7 @@ function Story(){
     const [story,setStory] = useState(null);
     const [err,setErr] = useState(null);
     useEffect(()=>{
-        fetch(`http://localhost:3000/Storys/${id}`)
+        fetch(`https://db-rdpb.onrender.com/Storys/${id}`)
         .then(value => value.json())
         .then(data => setStory(data))
         .catch(err => setErr(err))
