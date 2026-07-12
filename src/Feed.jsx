@@ -1,4 +1,4 @@
-import Storys from "./storys"
+import Storys from "./Storys"
 import Posts from "./Posts"
 function Feed(){
     return(
