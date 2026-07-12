@@ -65,3 +65,7 @@ w-30{
 .feed{
     overflow-y: auto;
 }
+
+.hov:hover{
+    cursor: pointer;
+}
